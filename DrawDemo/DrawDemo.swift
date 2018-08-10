@@ -17,8 +17,6 @@ import UIKit
         self.backgroundColor = UIColor.darkGray
         //simpleShapeLayer()
         //addTwoSublayers()
-        //complexShape()
-        //createTextLayer()
         createHexagon()
     }
     
